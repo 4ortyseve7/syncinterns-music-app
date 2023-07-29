@@ -1,7 +1,7 @@
 
 # SYNC INTERN'S 
 ## Task 3 : Music App
-## Quiz App by Avnish.
+## Music App by Avnish.
 
 This is my third task project for the July-August 2023 internship @SYNC INTERN'S.
 
